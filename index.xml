@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Data Science Portfolio on Ken Jee</title>
-    <link>https://example.com/</link>
+    <link>https://dataprofessor.github.io/Ken_Portfolio/</link>
     <description>Recent content in Data Science Portfolio on Ken Jee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 May 2020 10:58:08 -0400</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dataprofessor.github.io/Ken_Portfolio/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Project 1: Data Science Salary Estimator</title>
-      <link>https://example.com/post/project-1/</link>
+      <link>https://dataprofessor.github.io/Ken_Portfolio/post/project-1/</link>
       <pubDate>Sat, 09 May 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://example.com/post/project-1/</guid>
+      <guid>https://dataprofessor.github.io/Ken_Portfolio/post/project-1/</guid>
       <description>Created a tool that estimates data science salaries (MAE ~ $ 11K) to help data scientists negotiate their income when they get a job. Scraped over 1000 job descriptions from glassdoor using python and selenium Engineered features from the text of each job description to quantify the value companies put on python, excel, aws, and spark. Optimized Linear, Lasso, and Random Forest Regressors using GridsearchCV to reach the best model.</description>
     </item>
     
     <item>
       <title>Project 2: Ball Image Classifier</title>
-      <link>https://example.com/post/project-2/</link>
+      <link>https://dataprofessor.github.io/Ken_Portfolio/post/project-2/</link>
       <pubDate>Fri, 10 Apr 2020 11:00:59 -0400</pubDate>
       
-      <guid>https://example.com/post/project-2/</guid>
+      <guid>https://dataprofessor.github.io/Ken_Portfolio/post/project-2/</guid>
       <description>For this example project I built a ball classifier to identify balls from different sports. This could be useful for someone who is new to sports from a certain country. They could take a picture of a ball and an app could serve them some information about the history and rules of the game. This is the underlying model for building something with those capabilities.
 I was able to get the model to predict the sport of the ball with 94% accuracy after minimal tuning.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://example.com/contact/</link>
+      <link>https://dataprofessor.github.io/Ken_Portfolio/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/contact/</guid>
+      <guid>https://dataprofessor.github.io/Ken_Portfolio/contact/</guid>
       <description>Follow me on these social media platforms.
    Platform URL     YouTube: https://www.youtube.com/c/kenjee1?sub_confirmation=1   Website: https://www.playingnumbers.com, https://kennethjee.com/   Twitter: https://twitter.com/KenJee_DS   LinkedIn: https://www.linkedin.com/in/kenjee/   Medium: https://medium.com/@kenneth.b.jee   GitHub: https://github.com/PlayingNumbers    </description>
     </item>

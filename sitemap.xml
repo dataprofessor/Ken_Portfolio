@@ -3,53 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://dataprofessor.github.io/Ken_Portfolio/</loc>
     <lastmod>2020-05-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/post/project-1/</loc>
+    <loc>https://dataprofessor.github.io/Ken_Portfolio/post/project-1/</loc>
     <lastmod>2020-05-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://dataprofessor.github.io/Ken_Portfolio/post/</loc>
     <lastmod>2020-05-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/post/project-2/</loc>
+    <loc>https://dataprofessor.github.io/Ken_Portfolio/post/project-2/</loc>
     <lastmod>2020-04-10T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://dataprofessor.github.io/Ken_Portfolio/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://dataprofessor.github.io/Ken_Portfolio/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/contact/</loc>
+    <loc>https://dataprofessor.github.io/Ken_Portfolio/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://dataprofessor.github.io/Ken_Portfolio/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
